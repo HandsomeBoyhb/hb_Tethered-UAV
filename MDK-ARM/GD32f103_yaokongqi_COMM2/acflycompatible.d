@@ -1,0 +1,17 @@
+gd32f103_yaokongqi_comm2\acflycompatible.o: ..\Core\Src\AcFlyCompatible.c
+gd32f103_yaokongqi_comm2\acflycompatible.o: ../Core/Inc/CommManager.h
+gd32f103_yaokongqi_comm2\acflycompatible.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+gd32f103_yaokongqi_comm2\acflycompatible.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+gd32f103_yaokongqi_comm2\acflycompatible.o: ../Core/Inc/drv_SDI.h
+gd32f103_yaokongqi_comm2\acflycompatible.o: ../Core/Inc/AcFlyCompatible.h
+gd32f103_yaokongqi_comm2\acflycompatible.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+gd32f103_yaokongqi_comm2\acflycompatible.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+gd32f103_yaokongqi_comm2\acflycompatible.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+gd32f103_yaokongqi_comm2\acflycompatible.o: ../Core/Inc/FreeRTOSConfig.h
+gd32f103_yaokongqi_comm2\acflycompatible.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+gd32f103_yaokongqi_comm2\acflycompatible.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+gd32f103_yaokongqi_comm2\acflycompatible.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+gd32f103_yaokongqi_comm2\acflycompatible.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+gd32f103_yaokongqi_comm2\acflycompatible.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+gd32f103_yaokongqi_comm2\acflycompatible.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+gd32f103_yaokongqi_comm2\acflycompatible.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

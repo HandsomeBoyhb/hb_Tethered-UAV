@@ -1,0 +1,13 @@
+gd32f103_yaokongqi_comm2\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+gd32f103_yaokongqi_comm2\heap_4.o: E:\new_keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+gd32f103_yaokongqi_comm2\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+gd32f103_yaokongqi_comm2\heap_4.o: E:\new_keil5\ARM\ARMCC\Bin\..\include\stddef.h
+gd32f103_yaokongqi_comm2\heap_4.o: E:\new_keil5\ARM\ARMCC\Bin\..\include\stdint.h
+gd32f103_yaokongqi_comm2\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+gd32f103_yaokongqi_comm2\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+gd32f103_yaokongqi_comm2\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+gd32f103_yaokongqi_comm2\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+gd32f103_yaokongqi_comm2\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+gd32f103_yaokongqi_comm2\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+gd32f103_yaokongqi_comm2\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+gd32f103_yaokongqi_comm2\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
